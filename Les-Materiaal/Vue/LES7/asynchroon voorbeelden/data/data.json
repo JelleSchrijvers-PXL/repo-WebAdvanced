@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "missie_naam": "Luna 2 (USSR)",
+    "astronauten": ["Onbemand (Eerste kunstmatige object dat de maan raakte)"],
+    "jaartal": 1959
+  },
+  {
+    "id": 2,
+    "missie_naam": "Luna 3 (USSR)",
+    "astronauten": ["Onbemand (Maakte de allereerste foto's van de achterkant van de maan)"],
+    "jaartal": 1959
+  },
+  {
+    "id": 3,
+    "missie_naam": "Ranger 7 (USA)",
+    "astronauten": ["Onbemand (Eerste succesvolle Amerikaanse foto-missie in een scheervlucht)"],
+    "jaartal": 1964
+  },
+  {
+    "id": 4,
+    "missie_naam": "Luna 9 (USSR)",
+    "astronauten": ["Onbemand (Eerste gecontroleerde zachte landing op het maanoppervlak)"],
+    "jaartal": 1966
+  },
+  {
+    "id": 5,
+    "missie_naam": "Apollo 8 (USA)",
+    "astronauten": ["Frank Borman", "James Lovell", "William Anders (Eerste bemande vlucht rond de maan)"],
+    "jaartal": 1968
+  },
+  {
+    "id": 6,
+    "missie_naam": "Zond 5 (USSR)",
+    "astronauten": ["Twee Russische landschildpadden", "Meelwormen", "Fruitvliegen (Eerste levende wezens rond de maan)"],
+    "jaartal": 1968
+  },
+  {
+    "id": 7,
+    "missie_naam": "Apollo 11 (USA)",
+    "astronauten": ["Neil Armstrong", "id=Buzz Aldrin", "Michael Collins (Eerste bemande maanlanding)"],
+    "jaartal": 1969
+  },
+  {
+    "id": 8,
+    "missie_naam": "Apollo 12 (USA)",
+    "astronauten": ["Pete Conrad", "Alan Bean", "Richard Gordon"],
+    "jaartal": 1969
+  },
+  {
+    "id": 9,
+    "missie_naam": "Luna 16 (USSR)",
+    "astronauten": ["Onbemand (Eerste automatische robot die bodemmonsters naar de aarde bracht)"],
+    "jaartal": 1970
+  },
+  {
+    "id": 10,
+    "missie_naam": "Apollo 13 (USA)",
+    "astronauten": ["James Lovell", "Jack Swigert", "Fred Haise (Succesvolle mislukking na een explosie aan boord)"],
+    "jaartal": 1970
+  },
+  {
+    "id": 11,
+    "missie_naam": "Apollo 14 (USA)",
+    "astronauten": ["Alan Shepard", "Edgar Mitchell", "Stuart Roosa"],
+    "jaartal": 1971
+  },
+  {
+    "id": 12,
+    "missie_naam": "Apollo 15 (USA)",
+    "astronauten": ["David Scott", "James Irwin", "Alfred Worden (Eerste gebruik van de Lunar Rover auto)"],
+    "jaartal": 1971
+  },
+  {
+    "id": 13,
+    "missie_naam": "Apollo 16 (USA)",
+    "astronauten": ["John Young", "Charles Duke", "Ken Mattingly"],
+    "jaartal": 1972
+  },
+  {
+    "id": 14,
+    "missie_naam": "Apollo 17 (USA)",
+    "astronauten": ["Gene Cernan", "Harrison Schmitt", "Ronald Evans (Laatste bemande landing van de 20e eeuw)"],
+    "jaartal": 1972
+  },
+  {
+    "id": 15,
+    "missie_naam": "SMART-1 (ESA / Europa)",
+    "astronauten": ["Onbemand (Eerste Europese maansatelliet, testte ionenmotor)"],
+    "jaartal": 2003
+  },
+  {
+    "id": 16,
+    "missie_naam": "Chang'e 4 (China)",
+    "astronauten": ["Onbemand (Eerste zachte landing ooit op de achterkant van de maan, met de Yutu-2 rover)"],
+    "jaartal": 2019
+  },
+  {
+    "id": 17,
+    "missie_naam": "Artemis I (USA / Internationaal)",
+    "astronauten": ["Commander Moonikin Campos (Testpop)", "Helga (Testpop)", "Zohar (Testpop)"],
+    "jaartal": 2022
+  },
+  {
+    "id": 18,
+    "missie_naam": "Chandrayaan-3 (India)",
+    "astronauten": ["Onbemand (Eerste succesvolle landing nabij de onverkende zuidpool van de maan)"],
+    "jaartal": 2023
+  },
+  {
+    "id": 19,
+    "missie_naam": "SLIM (Japan)",
+    "astronauten": ["Onbemand (Met extreme precisie geland, ook wel de 'Moon Sniper' genoemd)"],
+    "jaartal": 2024
+  },
+  {
+    "id": 20,
+    "missie_naam": "Artemis II (USA / Canada)",
+    "astronauten": ["Reid Wiseman", "Victor Glover", "Christina Koch", "Jeremy Hansen (Geplande bemande vlucht om de maan)"],
+    "jaartal": 2025
+  }
+]

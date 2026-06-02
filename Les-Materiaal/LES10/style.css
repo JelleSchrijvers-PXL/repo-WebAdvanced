@@ -1,0 +1,14 @@
+main {
+    margin: 50px;
+}
+button{
+    margin-left: 50px;
+}
+.juist{
+    background-color: green;
+    color: white;
+}
+.fout{
+    background-color: red;
+    color: white;
+}

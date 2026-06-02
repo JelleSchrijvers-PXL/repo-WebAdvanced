@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "naam": "Intel Core i9-14900K CPU",
+    "categorie": "Processor",
+    "afbeelding_url": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 2,
+    "naam": "AMD Ryzen 7 7800X3D CPU",
+    "categorie": "Processor",
+    "afbeelding_url": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 3,
+    "naam": "NVIDIA GeForce RTX 4090 GPU",
+    "categorie": "Grafische Kaart",
+    "afbeelding_url": "https://images.unsplash.com/photo-1591488320449-011701bb6704?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 4,
+    "naam": "ASUS ROG Strix X670E-E Motherboard",
+    "categorie": "Moederbord",
+    "afbeelding_url": "https://images.unsplash.com/photo-1562976540-1502c2145186?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 5,
+    "naam": "Corsair Vengeance DDR5 32GB (2x16GB) RAM",
+    "categorie": "Werkgeheugen",
+    "afbeelding_url": "https://images.unsplash.com/photo-1541029071515-84cc54f84dc5?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 6,
+    "naam": "Samsung 990 Pro 2TB NVMe M.2 SSD",
+    "categorie": "Opslag",
+    "afbeelding_url": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 7,
+    "naam": "Corsair RM1000x 1000W PSU",
+    "categorie": "Voeding",
+    "afbeelding_url": "https://images.unsplash.com/photo-1587202372775-e229f172b9d7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 8,
+    "naam": "Lian Li O11 Dynamic EVO Case",
+    "categorie": "Behuizing",
+    "afbeelding_url": "https://images.unsplash.com/photo-1555664424-778a1e5e1b48?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 9,
+    "naam": "Noctua NH-D15 Chromax.Black CPU Cooler",
+    "categorie": "Koeling",
+    "afbeelding_url": "https://images.unsplash.com/photo-1612815154858-60aa4c59eaa6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 10,
+    "naam": "NZXT Kraken Elite 360 RGB AIO Liquid Cooler",
+    "categorie": "Koeling",
+    "afbeelding_url": "https://images.unsplash.com/photo-1600541519468-4a9121def1b1?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 11,
+    "naam": "Seagate IronWolf Pro 8TB NAS HDD",
+    "categorie": "Opslag",
+    "afbeelding_url": "https://images.unsplash.com/photo-1601524909162-be87252be298?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 12,
+    "naam": "MSI MAG B650 Tomahawk WiFi Motherboard",
+    "categorie": "Moederbord",
+    "afbeelding_url": "https://images.unsplash.com/photo-1551645121-d1034da75057?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 13,
+    "naam": "G.Skill Trident Z5 RGB DDR5 64GB RAM",
+    "categorie": "Werkgeheugen",
+    "afbeelding_url": "https://images.unsplash.com/photo-1614624532983-4ce03382d63d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 14,
+    "naam": "Crucial T700 1TB PCIe Gen5 NVMe SSD",
+    "categorie": "Opslag",
+    "afbeelding_url": "https://images.unsplash.com/photo-1597872200319-382d746f338d?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 15,
+    "naam": "ASUS TUF Gaming GeForce RTX 4070 Ti Super",
+    "categorie": "Grafische Kaart",
+    "afbeelding_url": "https://images.unsplash.com/photo-1581092921461-eab62e97a780?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 16,
+    "naam": "Be Quiet! Straight Power 12 750W PSU",
+    "categorie": "Voeding",
+    "afbeelding_url": "https://images.unsplash.com/photo-1624705002806-5d72df19c3ad?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 17,
+    "naam": "Fractal Design North Charcoal Black Case",
+    "categorie": "Behuizing",
+    "afbeelding_url": "https://images.unsplash.com/photo-1607604276583-eef5d076aa5f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 18,
+    "naam": "Corsair iCUE Link QX120 RGB Case Fan",
+    "categorie": "Koeling",
+    "afbeelding_url": "https://images.unsplash.com/photo-1604754745543-3ba1f22e86bf?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 19,
+    "naam": "Elgato Game Capture 4K Pro",
+    "categorie": "Capture Kaart",
+    "afbeelding_url": "https://images.unsplash.com/photo-1616440347437-b1c73416efc2?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 20,
+    "naam": "Creative Sound Blaster AE-7 Sound Card",
+    "categorie": "Geluidskaart",
+    "afbeelding_url": "https://images.unsplash.com/photo-1610492942475-29f6b0f69a53?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 21,
+    "naam": "Intel Core i5-14600K CPU",
+    "categorie": "Processor",
+    "afbeelding_url": "https://images.unsplash.com/photo-1581092335397-9583fe92d232?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 22,
+    "naam": "AMD Radeon RX 7900 XTX GPU",
+    "categorie": "Grafische Kaart",
+    "afbeelding_url": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 23,
+    "naam": "Gigabyte Z790 AORUS Elite AX Motherboard",
+    "categorie": "Moederbord",
+    "afbeelding_url": "https://images.unsplash.com/photo-1616440347967-0c6a581fc47c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 24,
+    "naam": "Kingston FURY Beast DDR4 16GB RAM",
+    "categorie": "Werkgeheugen",
+    "afbeelding_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 25,
+    "naam": "Western Digital Black SN850X 4TB SSD",
+    "categorie": "Opslag",
+    "afbeelding_url": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 26,
+    "naam": "Thermal Grizzly Kryonaut Thermal Paste",
+    "categorie": "Koeling",
+    "afbeelding_url": "https://images.unsplash.com/photo-1601524143768-9171f2a6a121?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 27,
+    "naam": "Seasonic Vertex GX-1200 ATX 3.0 PSU",
+    "categorie": "Voeding",
+    "afbeelding_url": "https://images.unsplash.com/photo-1547082299-de196ea013d6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 28,
+    "naam": "NZXT H9 Flow Dual-Chamber Case",
+    "categorie": "Behuizing",
+    "afbeelding_url": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 29,
+    "naam": "TP-Link Archer TX3000E Wi-Fi 6 PCIe Card",
+    "categorie": "Netwerkkaart",
+    "afbeelding_url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  },
+  {
+    "id": 30,
+    "naam": "CableMod PRO ModMesh Cable Extension Kit",
+    "categorie": "Accessoires",
+    "afbeelding_url": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3"
+  }
+]
