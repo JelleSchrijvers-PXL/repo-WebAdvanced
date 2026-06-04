@@ -1,7 +1,7 @@
 <script setup>
 import { onMounted } from 'vue';
 import { useHardwareStore } from '../stores/hardwareStore';
-import HardwareReviewComponent from '@/comonents/HardwareReviewComponent.vue'
+import HardwareReviewComponent from '@/components/HardwareReviewComponent.vue'
 
 const store = useHardwareStore();
 

@@ -34,12 +34,12 @@ function clickButton(value) {
   <div class="wrapper">
     <div id="output_calculator" class="calculator">
 
-      <!-- DISPLAY -->
+      <!-- SCHERM -->
       <div class="display">
         {{ waarde }}
       </div>
 
-      <!-- BUTTONS -->
+      <!-- KNOPPEN -->
       <table>
         <tr v-for="(row, i) in array_data" :key="i">
           <td v-for="(item, j) in row" :key="j">
@@ -54,7 +54,7 @@ function clickButton(value) {
       </table>
     </div>
 
-    <!-- OUTPUT -->
+    <!-- UITVOER -->
     <div id="output_results" class="results">
       <ul>
         <li v-for="(item, i) in history" :key="i">
@@ -90,14 +90,14 @@ function clickButton(value) {
   margin-top: 50px;
 }
 
-/* calculator */
+/* rekenmachine */
 .calculator {
   background: #1e1e1e;
   padding: 15px;
   border-radius: 12px;
 }
 
-/* display */
+/* scherm */
 .display {
   height: 50px;
   margin-bottom: 10px;
@@ -131,7 +131,7 @@ table {
   background: #555;
 }
 
-/* results */
+/* resultaten */
 .results {
   background: #111;
   padding: 15px;

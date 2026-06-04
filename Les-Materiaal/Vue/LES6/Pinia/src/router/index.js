@@ -20,7 +20,7 @@ const router = createRouter({
     {
       path: '/statics',
       name: 'statics',
-      component: () => import('../views/staticts.vue'),
+      component: () => import('../views/StatisticsView.vue'),
     }
   ],
 })

@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import {ref, reactive} from "vue";
 
-//functie implentaties
+// functie-implementaties
 function getalVerhoog(){
   getal.value++;
 }
@@ -19,7 +19,7 @@ function waarde(){
   v_getal.value = Math.floor(Math.random() * 101);
 }
 
-//variablen
+// variabelen
 const woord = ref(true);
 const flag = ref(true);
 const image = ref("../assets/hond.jpg");

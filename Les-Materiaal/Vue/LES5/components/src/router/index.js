@@ -1,6 +1,6 @@
 import { createRouter, createWebHistory } from 'vue-router'
 import MovieList from "@/MovieList.vue";
-import PaginationVIew from "@/PaginationVIew.vue";
+import PaginationView from "@/PaginationView.vue";
 import HomePage from "@/HomePage.vue";
 
 const router = createRouter({
@@ -16,7 +16,7 @@ const router = createRouter({
     },
     {
       path: '/pagination',
-      component: PaginationVIew
+      component: PaginationView
     }
   ],
 })

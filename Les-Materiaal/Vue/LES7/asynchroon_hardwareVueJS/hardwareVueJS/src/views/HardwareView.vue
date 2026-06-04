@@ -1,7 +1,7 @@
 <script setup>
 import { onMounted, ref } from 'vue';
 import { useHardwareStore } from '../stores/hardwareStore';
-import HardwareComponent from '@/comonents/HardwareComponent.vue'
+import HardwareComponent from '@/components/HardwareComponent.vue'
 const store = useHardwareStore();
 const geselecteerdeBoodschap = ref('');
 

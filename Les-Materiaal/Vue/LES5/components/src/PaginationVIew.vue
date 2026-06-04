@@ -1,6 +1,6 @@
 <script setup>
 import { ref, computed, watch } from 'vue'
-import Pagination from '@/pagination.vue'
+import Pagination from '@/Pagination.vue'
 import { products } from '@/data/products.js'
 
 const page = ref(1)
